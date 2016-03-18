@@ -1,0 +1,2 @@
+# WI-FI-Word-List
+WPA/WPA2 WORD-LIST
